@@ -19,7 +19,7 @@ function calculate() {
     }
     else {
         if (singlePeople.includes(name1.toLowerCase())) {
-            output.innerText = "Hate you!";
+            output.innerText = "Love You!";
             // yourName.value = ""
             // theirName.value = ""
         }
